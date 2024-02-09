@@ -1,0 +1,12 @@
+API REST
+Método comuns
+-GET - Buscar uma informação
+-PUT - Alterar uma informação
+-POST - Inserir uma informação
+-DELETE - Remover uma informação
+-PATCH - Alterar algo EXPECÍFICO de uma informação
+
+OS TIPOS DE PARÂMETROS
+- Body - {}
+- Query Params - http://localhost:8080/users?nome=Thiago&idade=37
+- Parâmetros de rotas - http://localhost:8080/users/{nome}/{idade}

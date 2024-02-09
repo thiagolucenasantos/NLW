@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CertificationNlwApplication<certification_nlw>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.thiago.certification_nlw.CertificationNlwApplication",
+            "projectName": "certification_nlw",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
